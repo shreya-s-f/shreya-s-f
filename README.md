@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=SHREYA%20SURESH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Explore%20%7C%20Experiment%20%7C%20Evolve&descSize=18&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=SHREYA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Explore%20%7C%20Experiment%20%7C%20Evolve&descSize=18&descAlignY=58&animation=fadeIn"
     width="100%"
     alt="Shreya's GitHub profile banner"
   />
