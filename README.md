@@ -6,10 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe+%E2%9C%A8;Building+ideas+into+reality+%F0%9F%9A%80;Exploring+AI+and+Full-Stack+Development+%F0%9F%A4%96;Learning.+Building.+Growing.+%F0%9F%92%9C" alt="Animated introduction"/>
 </p>
 
+```html
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6D28D9,50:7C3AED,100:EC4899&text=CODE%20%7C%20CREATE%20%7C%20REPEAT&fontColor=FFFFFF&fontSize=27&animation=fadeIn&fontAlignY=55" width="100%" alt="Purple gradient banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=SHREYA%20SURESH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shreya's GitHub banner"/>
 </p>
-
+```
 ---
 
 ## ✦ A Little About Me
