@@ -73,9 +73,6 @@ A web application for organizing surplus food donations and supporting food dist
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-s-f&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-s-f&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
-</p>
 
 ---
 
